@@ -1,0 +1,24 @@
+{
+  "countries": [
+    "PT"
+  ],
+  "keywords": [
+    "python",
+    "programação",
+    "javascript",
+    "receitas"
+  ],
+  "interval_seconds": 86400,
+  "max_requests": 4,
+  "page_size": 10,
+  "max_ads": 100,
+  "api_version": "v26.0",
+  "mode": "catalog",
+  "database": "data/offerlab.sqlite3",
+  "report_dir": "reports/catalog",
+  "catalog_languages": [
+    "pt_PT",
+    "pt_BR"
+  ],
+  "catalog_ref": "latest"
+}

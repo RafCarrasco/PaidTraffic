@@ -1,0 +1,19 @@
+{
+  "countries": [
+    "PT"
+  ],
+  "keywords": [
+    "python",
+    "programação",
+    "javascript",
+    "receitas"
+  ],
+  "interval_seconds": 86400,
+  "max_requests": 2,
+  "page_size": 10,
+  "max_ads": 100,
+  "api_version": "v26.0",
+  "mode": "apple",
+  "database": "data/offerlab.sqlite3",
+  "report_dir": "reports/apple"
+}

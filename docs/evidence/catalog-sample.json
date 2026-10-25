@@ -1,0 +1,171 @@
+{
+  "description": "Amostra de metadados reais coletados de catálogo CC BY 4.0; não são anúncios ou evidência de vendas. Conversão e classificação pelo OfferLab.",
+  "observed_date": "2026-10-25",
+  "total_unique_records": 74,
+  "languages": {
+    "pt-PT": 3,
+    "pt-BR": 71
+  },
+  "records": [
+    {
+      "ad_creative_bodies": [
+        "Curso de Python e Django"
+      ],
+      "ad_creative_link_captions": [
+        "https://osantana.me/curso-de-python-e-django"
+      ],
+      "catalog_byline": "",
+      "catalog_category": "Python",
+      "currency": null,
+      "evidence": {
+        "attribution": "Ebook Foundation / free-programming-books contributors",
+        "license": "CC BY 4.0 (catalog metadata only)",
+        "license_url": "https://github.com/EbookFoundation/free-programming-books/blob/52e40c13216706ff4a0b63c3224c34abaa266e1d/LICENSE",
+        "line": 421,
+        "quote": "* [Curso de Python e Django](https://osantana.me/curso-de-python-e-django)",
+        "source_revision": "52e40c13216706ff4a0b63c3224c34abaa266e1d",
+        "source_sha256": "d690d39c3be6cd734d04087241668a27a11ac7b32bfec39b6bc15886d6da5ad4",
+        "source_url": "https://github.com/EbookFoundation/free-programming-books/raw/52e40c13216706ff4a0b63c3224c34abaa266e1d/books/free-programming-books-pt_BR.md"
+      },
+      "evidence_url": "https://github.com/EbookFoundation/free-programming-books/raw/52e40c13216706ff4a0b63c3224c34abaa266e1d/books/free-programming-books-pt_BR.md#L421",
+      "free_resource_listed": true,
+      "id": "0061d7f22a6b1b3640b5e685156ed321c38683a2fa2a4d5cd1c92b4e74c06d49",
+      "landing_url": "https://osantana.me/curso-de-python-e-django",
+      "language": "pt-BR",
+      "limitations": "Referência de recurso gratuito segundo o catálogo. Disponibilidade, licença do livro e mercado PT não verificados; não é anúncio ou evidência de vendas.",
+      "market_country": null,
+      "page_name": "",
+      "price": null,
+      "record_kind": "licensed_catalog_entry",
+      "title": "Curso de Python e Django"
+    },
+    {
+      "ad_creative_bodies": [
+        "A Linguagem de Programação Rust"
+      ],
+      "ad_creative_link_captions": [
+        "https://rust-br.github.io/rust-book-pt-br/title-page.html"
+      ],
+      "catalog_byline": "Steve Klabnik, Carol Nichols, `trl.:` Lucas Guimarães, `trl.:` Mario Idival, `trl.:` Alberto Margarido, et al. (HTML)",
+      "catalog_category": "Rust",
+      "currency": null,
+      "evidence": {
+        "attribution": "Ebook Foundation / free-programming-books contributors",
+        "license": "CC BY 4.0 (catalog metadata only)",
+        "license_url": "https://github.com/EbookFoundation/free-programming-books/blob/52e40c13216706ff4a0b63c3224c34abaa266e1d/LICENSE",
+        "line": 466,
+        "quote": "* [A Linguagem de Programação Rust](https://rust-br.github.io/rust-book-pt-br/title-page.html) - Steve Klabnik, Carol Nichols, `trl.:` Lucas Guimarães, `trl.:` Mario Idival, `trl.:` Alberto Margarido, et al. (HTML)",
+        "source_revision": "52e40c13216706ff4a0b63c3224c34abaa266e1d",
+        "source_sha256": "d690d39c3be6cd734d04087241668a27a11ac7b32bfec39b6bc15886d6da5ad4",
+        "source_url": "https://github.com/EbookFoundation/free-programming-books/raw/52e40c13216706ff4a0b63c3224c34abaa266e1d/books/free-programming-books-pt_BR.md"
+      },
+      "evidence_url": "https://github.com/EbookFoundation/free-programming-books/raw/52e40c13216706ff4a0b63c3224c34abaa266e1d/books/free-programming-books-pt_BR.md#L466",
+      "free_resource_listed": true,
+      "id": "008f1b977718155371e097a065ca2f538df0fa4bcefd9266548547a4359d535b",
+      "landing_url": "https://rust-br.github.io/rust-book-pt-br/title-page.html",
+      "language": "pt-BR",
+      "limitations": "Referência de recurso gratuito segundo o catálogo. Disponibilidade, licença do livro e mercado PT não verificados; não é anúncio ou evidência de vendas.",
+      "market_country": null,
+      "page_name": "",
+      "price": null,
+      "record_kind": "licensed_catalog_entry",
+      "title": "A Linguagem de Programação Rust"
+    },
+    {
+      "ad_creative_bodies": [
+        "Tópicos Especiais em Programação"
+      ],
+      "ad_creative_link_captions": [
+        "https://github.com/edsomjr/TEP"
+      ],
+      "catalog_byline": "Edson Alves (HTML)",
+      "catalog_category": "<a id=\"cpp\"></a>C++",
+      "currency": null,
+      "evidence": {
+        "attribution": "Ebook Foundation / free-programming-books contributors",
+        "license": "CC BY 4.0 (catalog metadata only)",
+        "license_url": "https://github.com/EbookFoundation/free-programming-books/blob/52e40c13216706ff4a0b63c3224c34abaa266e1d/LICENSE",
+        "line": 148,
+        "quote": "* [Tópicos Especiais em Programação](https://github.com/edsomjr/TEP) - Edson Alves (HTML)",
+        "source_revision": "52e40c13216706ff4a0b63c3224c34abaa266e1d",
+        "source_sha256": "d690d39c3be6cd734d04087241668a27a11ac7b32bfec39b6bc15886d6da5ad4",
+        "source_url": "https://github.com/EbookFoundation/free-programming-books/raw/52e40c13216706ff4a0b63c3224c34abaa266e1d/books/free-programming-books-pt_BR.md"
+      },
+      "evidence_url": "https://github.com/EbookFoundation/free-programming-books/raw/52e40c13216706ff4a0b63c3224c34abaa266e1d/books/free-programming-books-pt_BR.md#L148",
+      "free_resource_listed": true,
+      "id": "016bf6c97cc98aeb726dc4a9e38109e1e06d1a29a25529d45388324d85104ea4",
+      "landing_url": "https://github.com/edsomjr/TEP",
+      "language": "pt-BR",
+      "limitations": "Referência de recurso gratuito segundo o catálogo. Disponibilidade, licença do livro e mercado PT não verificados; não é anúncio ou evidência de vendas.",
+      "market_country": null,
+      "page_name": "",
+      "price": null,
+      "record_kind": "licensed_catalog_entry",
+      "title": "Tópicos Especiais em Programação"
+    },
+    {
+      "ad_creative_bodies": [
+        "Primeiros passos com Express em Node.js"
+      ],
+      "ad_creative_link_captions": [
+        "http://nodebr.com/primeiros-passos-com-express-em-node-js/"
+      ],
+      "catalog_byline": "",
+      "catalog_category": "JavaScript",
+      "currency": null,
+      "evidence": {
+        "attribution": "Ebook Foundation / free-programming-books contributors",
+        "license": "CC BY 4.0 (catalog metadata only)",
+        "license_url": "https://github.com/EbookFoundation/free-programming-books/blob/52e40c13216706ff4a0b63c3224c34abaa266e1d/LICENSE",
+        "line": 307,
+        "quote": "* [Primeiros passos com Express em Node.js](http://nodebr.com/primeiros-passos-com-express-em-node-js/)",
+        "source_revision": "52e40c13216706ff4a0b63c3224c34abaa266e1d",
+        "source_sha256": "d690d39c3be6cd734d04087241668a27a11ac7b32bfec39b6bc15886d6da5ad4",
+        "source_url": "https://github.com/EbookFoundation/free-programming-books/raw/52e40c13216706ff4a0b63c3224c34abaa266e1d/books/free-programming-books-pt_BR.md"
+      },
+      "evidence_url": "https://github.com/EbookFoundation/free-programming-books/raw/52e40c13216706ff4a0b63c3224c34abaa266e1d/books/free-programming-books-pt_BR.md#L307",
+      "free_resource_listed": true,
+      "id": "04024a5b8b6e9f264c78c6f614b701ad92e29c1dbb50d831dd639d60be0ead97",
+      "landing_url": "http://nodebr.com/primeiros-passos-com-express-em-node-js/",
+      "language": "pt-BR",
+      "limitations": "Referência de recurso gratuito segundo o catálogo. Disponibilidade, licença do livro e mercado PT não verificados; não é anúncio ou evidência de vendas.",
+      "market_country": null,
+      "page_name": "",
+      "price": null,
+      "record_kind": "licensed_catalog_entry",
+      "title": "Primeiros passos com Express em Node.js"
+    },
+    {
+      "ad_creative_bodies": [
+        "You Don't Know JS: Escopos & Closures"
+      ],
+      "ad_creative_link_captions": [
+        "https://github.com/cezaraugusto/You-Dont-Know-JS/blob/portuguese-translation/scope%20&%20closures/README.md"
+      ],
+      "catalog_byline": "",
+      "catalog_category": "JavaScript",
+      "currency": null,
+      "evidence": {
+        "attribution": "Ebook Foundation / free-programming-books contributors",
+        "license": "CC BY 4.0 (catalog metadata only)",
+        "license_url": "https://github.com/EbookFoundation/free-programming-books/blob/52e40c13216706ff4a0b63c3224c34abaa266e1d/LICENSE",
+        "line": 279,
+        "quote": "* [You Don't Know JS: Escopos & Closures](https://github.com/cezaraugusto/You-Dont-Know-JS/blob/portuguese-translation/scope%20&%20closures/README.md)",
+        "source_revision": "52e40c13216706ff4a0b63c3224c34abaa266e1d",
+        "source_sha256": "d690d39c3be6cd734d04087241668a27a11ac7b32bfec39b6bc15886d6da5ad4",
+        "source_url": "https://github.com/EbookFoundation/free-programming-books/raw/52e40c13216706ff4a0b63c3224c34abaa266e1d/books/free-programming-books-pt_BR.md"
+      },
+      "evidence_url": "https://github.com/EbookFoundation/free-programming-books/raw/52e40c13216706ff4a0b63c3224c34abaa266e1d/books/free-programming-books-pt_BR.md#L279",
+      "free_resource_listed": true,
+      "id": "09226c37ac3f0d83774938b240f1da93d269bb60fee1d198fae47cc5de73eeab",
+      "landing_url": "https://github.com/cezaraugusto/You-Dont-Know-JS/blob/portuguese-translation/scope%20&%20closures/README.md",
+      "language": "pt-BR",
+      "limitations": "Referência de recurso gratuito segundo o catálogo. Disponibilidade, licença do livro e mercado PT não verificados; não é anúncio ou evidência de vendas.",
+      "market_country": null,
+      "page_name": "",
+      "price": null,
+      "record_kind": "licensed_catalog_entry",
+      "title": "You Don't Know JS: Escopos & Closures"
+    }
+  ]
+}

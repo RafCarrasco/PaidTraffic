@@ -1,0 +1,13 @@
+{
+  "mode": "demo",
+  "countries": ["PT"],
+  "keywords": ["curso", "ebook"],
+  "interval_seconds": 86400,
+  "max_requests": 10,
+  "page_size": 25,
+  "max_ads": 100,
+  "database": "data/demo.sqlite3",
+  "report_dir": "reports/demo",
+  "api_version": "v25.0",
+  "weights": {"digital": 40, "text": 20, "landing_url": 20, "delivery_dates": 20}
+}
